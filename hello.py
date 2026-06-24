@@ -1,1 +1,5 @@
-print("hello jenkins")
+a=int(input("enter the number: "))
+b=int(input("enter the number: "))
+
+sum=a+b
+print("addtion =", sum)
