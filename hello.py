@@ -1,5 +1,5 @@
-a=int(input("enter the number: "))
-b=int(input("enter the number: "))
+a=int(sys.argv[1)
+b=int(sys.argv[2)
 
 sum=a+b
 print("addtion =", sum)
